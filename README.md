@@ -1,10 +1,4 @@
 # Blood Bank Management System
-
-# Title
-
- #Blood Bank Management System
- 
- 
  
  # Description
  
